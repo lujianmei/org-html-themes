@@ -1,9 +1,9 @@
 # -*- mode: org; -*-
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/readtheorg/css/htmlize.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/readtheorg/css/readtheorg.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/readtheorg/css/readtheorg-min.css"/>
 
 #+HTML_HEAD: <script src="//cdn.bootcss.com/jquery/2.1.3/jquery.min.js"></script>
 #+HTML_HEAD: <script src="//cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/lib/js/jquery.stickytableheaders.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/readtheorg/css/readtheorg.css"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/readtheorg/js/readtheorg-min.js"></script>

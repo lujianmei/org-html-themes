@@ -1,8 +1,8 @@
 # -*- mode: org; -*-
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/htmlize.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/bigblow.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/hideshow.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/bigblow-min.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/hideshow-min.css"/>
 
 #+HTML_HEAD: <script type="text/javascript" src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="//cdn.bootcss.com/jqueryui/1.10.2/jquery-ui.min.js"></script>
@@ -10,6 +10,6 @@
 #+HTML_HEAD: <script type="text/javascript" src="//cdn.bootcss.com/jquery-localScroll/1.4.0/jquery.localScroll.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="//cdn.bootcss.com/jquery-scrollTo/1.4.3/jquery.scrollTo.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="//cdn.bootcss.com/zclip/1.1.2/jquery.zclip.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/bigblow/js/bigblow.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/bigblow/js/hideshow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/bigblow/js/bigblow-min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/bigblow/js/hideshow-min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="http://www.lujianmei.com/org-html/lib/js/jquery.stickytableheaders.min.js"></script>
