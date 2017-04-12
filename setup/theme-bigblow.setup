@@ -1,7 +1,7 @@
 # -*- mode: org; -*-
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/htmlize.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/bigblow-min.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/bigblow.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.lujianmei.com/org-html/bigblow/css/hideshow-min.css"/>
 
 #+HTML_HEAD: <script type="text/javascript" src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
